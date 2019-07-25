@@ -6,6 +6,8 @@
 - [plotly](https://plot.ly/)
 ## Data visualization blogs:
 - [Data Stories](https://datastori.es/)
+- [data flowing](https://flowingdata.com/)
+ - [WTF visualization](https://viz.wtf/)
 ## Data Visualization books:
 - Visual Thinking for Design by colin ware.
 - Storytelling with Data 
