@@ -9,6 +9,8 @@
 - [data flowing](https://flowingdata.com/)
  - [WTF visualization](https://viz.wtf/)
  - [Tableau Blog](https://www.tableau.com/about/blog)
+ -  [Visualising data](https://www.visualisingdata.com/)
+ - [Information is beautiful](https://informationisbeautiful.net/)
 ## Data Visualization books:
 - Visual Thinking for Design by colin ware.
 - Storytelling with Data 
