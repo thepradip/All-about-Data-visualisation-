@@ -11,6 +11,9 @@
  - [Tableau Blog](https://www.tableau.com/about/blog)
  -  [Visualising data](https://www.visualisingdata.com/)
  - [Information is beautiful](https://informationisbeautiful.net/)
+ - [Storytelling with data](http://www.storytellingwithdata.com/)
+ - [Driven by data](https://driven-by-data.net/?source=post_page---------------------------)
+ - [modern data](https://moderndata.plot.ly/?source=post_page---------------------------)
 ## Data Visualization books:
 - Visual Thinking for Design by colin ware.
 - Storytelling with Data 
