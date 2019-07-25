@@ -5,9 +5,11 @@
 - [bokeh](https://bokeh.pydata.org/en/latest/)
 - [plotly](https://plot.ly/)
 ## Data visualization blogs:
-- https://datastori.es/
-- [Data Stories](https://datastori.es/data-visualization-society/#t=6:49.763) 
+- [Data Stories](https://datastori.es/)
 ## Data Visualization books:
 - Visual Thinking for Design by colin ware.
 - Storytelling with Data 
+## Data Visualization Audio resources:
+- [Data Stories](https://datastori.es/data-visualization-society/#t=6:49.763) 
+
 
