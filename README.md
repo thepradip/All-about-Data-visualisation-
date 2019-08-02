@@ -19,5 +19,7 @@
 - Storytelling with Data 
 ## Data Visualization Audio resources:
 - [Data Stories](https://datastori.es/data-visualization-society/#t=6:49.763) 
+## Data Visualization videos
+- [plotly express| dash ](https://www.youtube.com/watch?v=5Cw4JumJTwo)
 
 
