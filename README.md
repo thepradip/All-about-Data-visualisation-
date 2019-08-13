@@ -4,6 +4,7 @@
 - [seaborn](https://seaborn.pydata.org/)
 - [bokeh](https://bokeh.pydata.org/en/latest/)
 - [plotly](https://plot.ly/)
+ - [D3 example 200](http://techslides.com/over-2000-d3-js-examples-and-demos)
 ## Data visualization blogs:
 - [Data Stories](https://datastori.es/)
 - [data flowing](https://flowingdata.com/)
