@@ -22,5 +22,7 @@
 - [Data Stories](https://datastori.es/data-visualization-society/#t=6:49.763) 
 ## Data Visualization videos
 - [plotly express| dash ](https://www.youtube.com/watch?v=5Cw4JumJTwo)
+## blog posts
+- [pandas visualization](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 
 
