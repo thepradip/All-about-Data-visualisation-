@@ -6,6 +6,7 @@
 - [plotly](https://plot.ly/)
  - [D3 example 200](http://techslides.com/over-2000-d3-js-examples-and-demos)
 ## Data visualization blogs:
+- [scientific-python-lectures|matplotlib](https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
 - [Data Stories](https://datastori.es/)
 - [data flowing](https://flowingdata.com/)
  - [WTF visualization](https://viz.wtf/)
