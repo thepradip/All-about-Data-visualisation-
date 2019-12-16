@@ -25,5 +25,8 @@
 - [plotly express| dash ](https://www.youtube.com/watch?v=5Cw4JumJTwo)
 ## blog posts
 - [pandas visualization](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+# 3D visualization of neural network
+- [GANLAB](https://poloclub.github.io/ganlab/)
+- [Tensorspace](https://github.com/tensorspace-team/tensorspace)
 
 
